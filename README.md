@@ -3,13 +3,13 @@ You've found the official repository for the BYU CS 474 Fall 2024 course. This r
 
 ## Labs
 - [Lab 1](lab1_pytorch_intro.ipynb): Introduction to PyTorch
-- [Lab 2](labs/lab2): PyTorch Modules and Training Pipelines
-- [Lab 3](labs/lab3): Cross Entropy and ConvNets
-- [Lab 4](labs/lab4): Dense Prediction and U-Nets
-- [Lab 5](labs/lab5): Generalization and Measuring Performance
-- [Lab 6](labs/lab6): Overfitting and Regularization
-- [Lab 7](labs/lab7): Style Transfer
-- [Lab 8](labs/lab8): Self-attention and the Transformer
-- [Lab 9](labs/lab9): Transfer Learning
-- [Lab 10](labs/lab10): Image Generation and Diffusion
-- [Lab 11](labs/lab11): Deep Reinforcement Learning
+- [Lab 2](lab2_modules_training.ipynb): PyTorch Modules and Training Pipelines
+- [Lab 3](lab3_cross_entropy_convnets.ipynb): Cross Entropy and ConvNets
+- [Lab 4](lab4_unets.ipynb): Dense Prediction and U-Nets
+- [Lab 5](lab5_generalization.ipynb): Generalization and Measuring Performance
+- [Lab 6](lab6_regularization.ipynb): Overfitting and Regularization
+- [Lab 7](lab7_style_transfer.ipynb): Style Transfer
+- [Lab 8](lab8_self_attention.ipynb): Self-attention and the Transformer
+- [Lab 9](lab9_transfer_learning.ipynb): Transfer Learning
+- [Lab 10](lab10_diffusion.ipynb): Image Generation and Diffusion
+- [Lab 11](lab11_rl.ipynb): Deep Reinforcement Learning
