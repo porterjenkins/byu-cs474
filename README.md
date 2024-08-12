@@ -2,7 +2,7 @@
 You've found the official repository for the BYU CS 474 Fall 2024 course. This repository contains starter code for all assignments for the class.
 
 ## Labs
-- [Lab 1](labs/lab1): Introduction to PyTorch
+- [Lab 1](lab1_pytorch_intro.ipynb): Introduction to PyTorch
 - [Lab 2](labs/lab2): PyTorch Modules and Training Pipelines
 - [Lab 3](labs/lab3): Cross Entropy and ConvNets
 - [Lab 4](labs/lab4): Dense Prediction and U-Nets
