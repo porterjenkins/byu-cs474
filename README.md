@@ -1,6 +1,8 @@
 # byu-cs474
 You've found the official repository for the BYU CS 474 Fall 2024 course. This repository contains starter code for all assignments for the class.
 
+See Canvas for all due dates and submission details.
+
 ## Labs
 - [Lab 1](lab1_pytorch_intro.ipynb): Introduction to PyTorch
 - [Lab 2](lab2_modules_training.ipynb): PyTorch Modules and Training Pipelines
